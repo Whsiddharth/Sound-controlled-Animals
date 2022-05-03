@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    color: rgb(218, 140, 185);
+    background-color: rgb(255, 255, 255);
+    font-family: patrick hand;
+}
+img{
+    width: 250px;
+}
+button{
+    color: white;
+    background-color: rgb(202, 130, 166);
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+    font-family: patrick hand;
+}
+h1{
+    width:100%;
+    background-color:#d087aa;
+    margin-top: 0%;
+    color: #ffffff;
+    text-shadow: 5px 5px 5px rgb(152, 80, 114);
+}
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #d087aa;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(152, 80, 114);
+ }
